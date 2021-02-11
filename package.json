@@ -11,7 +11,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mhart/gelfling.git"
+    "url": "git+https://github.com/mhart/gelfling.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhart/gelfling/issues"
+  },
+  "homepage": "https://github.com/mhart/gelfling#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
